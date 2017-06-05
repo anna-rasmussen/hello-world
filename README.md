@@ -1,3 +1,6 @@
 # hello-world
 my first repository
-readme
+
+Hi!
+
+I am a graduate student.
